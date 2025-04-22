@@ -10,6 +10,8 @@ Unmaintained projects will be removed.
 - [Bots](#bots)
   - [Administration](#administration)
   - [Bridge](#bridge)
+  - [Collaboration](#collaboration)
+  - [Convenience](#convenience)
   - [Moderation](#moderation)
   - [Support / Chat Bot](#support--chat-bot)
 - [Bot SDKs](#bot-sdks)
@@ -43,14 +45,26 @@ Official Matrix overview: https://matrix.org/ecosystem/integrations
 - [matrix-email-bot (t2bot)](https://github.com/t2bot/matrix-email-bot): Bot that posts messages to rooms when an email is received
 - [matrix-rss-bridge (brandonmcclure)](https://gitlab.com/matrix-rss-bridge/matrix-rss-bridge): Bridge for reading RSS feeds
 
+### Collaboration
+
+- [NeoBoard (Nordeck IT + Consulting GmbH)](https://github.com/nordeck/matrix-neoboard): A collaborative whiteboard widget
+
+### Convenience
+
+- [chaz (arcuru)](https://github.com/arcuru/chaz): Bot that connects to multiple LLM providers to allow for chatting with any of the LLM models
+- [I Don't Have Spotify (HarHarLinks)](https://github.com/HarHarLinks/maubot-idonthavespotify): Reply to Spotify links with alternative streaming services
+
 ### Moderation
 
 - [Draupnir (The Draupnir Project)](https://github.com/the-draupnir-project/Draupnir): Moderation bot and protection platform
 - [Matrix Guardian (cyb3rko)](https://github.com/cyb3rko/matrix-guardian): Friendly, lightweight bot for protecting the people
+- [Matrix Releasetracker (ananace)](https://github.com/ananace/matrix-releasetracker): Release tracker that posts updates into rooms 
+- [Meowlnir (Maunium)](https://github.com/maunium/meowlnir): An opinionated moderation bot
 - [mjolnir (The Matrix.org Foundation)](https://github.com/matrix-org/mjolnir): Moderation tool
+- [nsfwbot (tcpipuk)](https://github.com/tcpipuk/matrix-nsfwbot): Plugin to moderate NSFW images
 - [Phish Bot (dzlandis)](https://github.com/dzlandis/phish-matrix-bot): Bot for detecting phishing links
 
-## Support / Chat Bot
+### Support / Chat Bot
 
 - [Honoroit (etke.cc)](https://github.com/etkecc/honoroit): Helpdesk bot
 - [Rustix (James)](https://gitlab.com/jpypi/rustix): Chat bot
